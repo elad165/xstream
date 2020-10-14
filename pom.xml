@@ -896,7 +896,7 @@
     <version.javaassist>3.12.1.GA</version.javaassist>
     <version.jmock>1.0.1</version.jmock>
     <version.joda-time>1.6</version.joda-time>
-    <version.junit>3.8.1</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.net.sf.kxml.kxml2>2.3.0</version.net.sf.kxml.kxml2>
     <version.org.codehaus.jettison>1.2</version.org.codehaus.jettison>
     <version.org.codehaus.woodstox.asl>3.2.7</version.org.codehaus.woodstox.asl>
